@@ -13,7 +13,7 @@ Some of the projects I’ve worked on include:
 ## 🌱 Currently Learning  
 - Deep learning architectures and training techniques  
 - Computer Vision techniques and image-processing workflows  
-- NLP fundamentals and text-processing pipelines  
+- NLP and text-processing pipelines  
 - Deploying models and integrating them with lightweight web apps
 
 ---
