@@ -1,5 +1,26 @@
-# 💫 About Me:
-👋 Hi, I’m Ahmed<br><br>I’m an AI and Machine Learning enthusiast currently building a strong foundation across Deep Learning, Computer Vision, and NLP. I enjoy working on practical, real-world projects and exploring how AI can be used to improve everyday systems and experiences.<br><br>Some of the projects I’ve worked on include:<br><br>🖼️ Chest X-ray pneumonia classification<br><br>🌿 Plant disease detection<br><br>🚗 Car plate detection<br><br>🛒 Product recommendation system for an online supermarket<br><br>💬 A simple NLP-based chatbot for the supermarket platform<br><br>🌱 Currently Learning<br><br>Deep learning architectures and training techniques<br><br>Computer Vision techniques and image-processing workflows<br><br>NLP fundamentals and text-processing pipelines<br><br>Deploying models and integrating them with lightweight web apps<br><br>📫 Always Open to Connect<br><br>I enjoy learning, experimenting, and sharing ideas. Feel free to explore my work or reach out anytime.
+## 👋 Hi, I’m Ahmed  
+I’m an AI and Machine Learning enthusiast currently building a strong foundation across **Deep Learning, Computer Vision, and NLP**. I enjoy working on practical, real-world projects and exploring how AI can be used to improve everyday systems and experiences.
+
+Some of the projects I’ve worked on include:  
+- 🖼️ Chest X-ray pneumonia classification  
+- 🌿 Plant disease detection  
+- 🚗 Car plate detection  
+- 🛒 Product recommendation system for an online supermarket  
+- 💬 A simple NLP-based chatbot for the same supermarket
+
+---
+
+## 🌱 Currently Learning  
+- Deep learning architectures and training techniques  
+- Computer Vision techniques and image-processing workflows  
+- NLP fundamentals and text-processing pipelines  
+- Deploying models and integrating them with lightweight web apps
+
+---
+
+## 📫 Always Open to Connect  
+I enjoy learning, experimenting, and sharing ideas. Feel free to explore my work or reach out anytime.
+
 
 
 ## 🌐 Socials:
