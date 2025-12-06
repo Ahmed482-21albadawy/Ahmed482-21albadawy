@@ -33,7 +33,7 @@ I enjoy learning, experimenting, and sharing ideas. Feel free to explore my work
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmed482-21albadawy&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed482-21albadawy&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
